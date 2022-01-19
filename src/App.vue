@@ -1,5 +1,7 @@
 <script setup lang="ts">
-
+import TheSidebar from './components/TheSidebar.vue';
+import DistributionMap from './components/DistributionMap.vue';
+import CarouselCards from './components/CarouselCards.vue';
 </script>
 
 <template>
