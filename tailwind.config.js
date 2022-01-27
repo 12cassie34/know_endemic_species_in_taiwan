@@ -1,5 +1,5 @@
 module.exports = {
-  content: [
+  purge: [
     "./index.html",
     "./src/**/*.{vue,js,ts,jsx,tsx}",
   ],
@@ -11,6 +11,7 @@ module.exports = {
         champagne: "#F3EAC0",
         darkBlue: "#1E2640"
       },
+
     },
   },
   plugins: [],

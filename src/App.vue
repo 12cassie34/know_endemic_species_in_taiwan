@@ -5,16 +5,19 @@ import CarouselCards from './components/CarouselCards.vue';
 </script>
 
 <template>
+<div class="flex">
+  <div class="w-1/4"><TheSidebar /></div>
+  <div class="w-3/4">
+    <DistributionMap />
+    <CarouselCards />
+  </div>
+</div>
 
 </template>
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
