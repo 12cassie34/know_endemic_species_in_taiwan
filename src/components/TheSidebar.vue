@@ -1,3 +1,10 @@
+<script setup lang="ts">
+import LanguageButtons from './LanguageButtons.vue';
+</script>
+
 <template>
-    <h1>this is the sidebar</h1>
+<div class="bg-darkBlue h-full">
+    <LanguageButtons />
+</div>
+    
 </template>
