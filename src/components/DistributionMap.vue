@@ -9,47 +9,49 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, ref } from "vue";
+import { defineComponent, onMounted, ref } from "vue";
 
 export default defineComponent({
   setup() {
     const openingWords = ref("口口聲聲說愛臺灣，連臺灣有什麼都不知道。");
     const quoteFrom = ref("──呂氏攀蜥發現者，呂光洋教授");
-    const speed: number = 300;
+    const speed: number = ref(300);
     const wordCount: number = ref(0);
     const hasTypingDash: boolean = ref(true);
-    return { openingWords, speed, wordCount, quoteFrom, hasTypingDash };
-  },
-  mounted() {
-    this.runOpeningWords();
-  },
-  methods: {
-    plusWordCount() {
-      this.wordCount += 1;
-    },
-    runOpeningWords() {
-      let phrase: string = this.openingWords;
-      if (this.wordCount < phrase.length) {
+
+    const plusWordCount = () => {
+      wordCount.value += 1;
+    };
+
+    const runQuoteFrom = () => {
+      let phrase: string = quoteFrom.value;
+      if (wordCount.value < phrase.length) {
+        (<HTMLInputElement>document.getElementById("quote-from")).innerText +=
+          phrase.charAt(wordCount.value);
+        plusWordCount();
+        setTimeout(() => runQuoteFrom(), speed.value);
+      }
+    };
+
+    const runOpeningWords = () => {
+      let phrase: string = openingWords.value;
+      if (wordCount.value < phrase.length) {
         (<HTMLInputElement>(
           document.getElementById("opening-words")
-        )).innerHTML += phrase.charAt(this.wordCount);
-        this.plusWordCount();
-        setTimeout(() => this.runOpeningWords(), this.speed);
+        )).innerHTML += phrase.charAt(wordCount.value);
+        plusWordCount();
+        setTimeout(() => runOpeningWords(), speed.value);
       } else {
-        this.hasTypingDash = false;
-        this.wordCount = 0;
-        this.runQuoteFrom();
+        hasTypingDash.value = false;
+        wordCount.value = 0;
+        runQuoteFrom();
       }
-    },
-    runQuoteFrom() {
-      let phrase: string = this.quoteFrom;
-      if (this.wordCount < phrase.length) {
-        (<HTMLInputElement>document.getElementById("quote-from")).innerText +=
-          phrase.charAt(this.wordCount);
-        this.plusWordCount();
-        setTimeout(() => this.runQuoteFrom(), this.speed);
-      }
-    },
+    };
+
+    onMounted(() => {
+      runOpeningWords();
+    });
+    return { hasTypingDash };
   },
 });
 </script>
