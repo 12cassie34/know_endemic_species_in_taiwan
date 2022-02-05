@@ -6,7 +6,7 @@ import CarouselCards from './components/CarouselCards.vue';
 
 <template>
 <div class="flex">
-  <div class="w-1/4"><TheSidebar /></div>
+  <div class="w-1/4"><the-sidebar /></div>
   <div class="w-3/4">
     <DistributionMap />
     <CarouselCards />

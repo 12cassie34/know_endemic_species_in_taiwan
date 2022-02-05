@@ -1,27 +1,33 @@
 <template>
-  <div v-for="(data, index) in menuData" :key="index">
-    {{ data.name }}
-    <TheMenu v-for="(child, index) in data.children" :key="index" />
+  <div class="text-white">
+    <span @click="toggleExpand">{{ name }} {{ enName }}</span>
+    <span v-if="children">&nbsp;{{ isShow ? "[-]" : "[+]" }}</span>
+    <template v-if="isShow">
+      <the-menu
+        v-for="child in children"
+        :key="child.name"
+        :children="child.children"
+        :name="child.name"
+        :depth="depth + 1"
+      ></the-menu>
+    </template>
   </div>
 </template>
 
 <script lang="ts">
-// import TheMenu from "./TheMenu.vue";
 import { defineComponent, ref } from "vue";
 
 export default defineComponent({
+  name: "the-menu",
+  props: ["name", "enName", "children", "depth"],
   setup() {
-    const menuData = ref([]);
-    const url = ref("/api/getMenu");
-    fetch(url.value).then((response) => {
-      return response.json();
-    }).then((data) => {
-      menuData.value = data.data
-    }).catch((err) => {
-      console.warn('Something went wrong.', err);
-    });
+    const isShow = ref(false);
 
-    return { menuData }
+    const toggleExpand = () => {
+      isShow.value = !isShow.value;
+    };
+
+    return { isShow, toggleExpand };
   },
 });
 </script>
