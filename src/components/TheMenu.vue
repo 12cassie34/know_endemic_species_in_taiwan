@@ -1,7 +1,7 @@
 <template>
   <div v-for="(data, index) in menuData" :key="index">
     {{ data.name }}
-    <!-- <TheMenu v-for="(child, index) in data.children" :key="index" /> -->
+    <TheMenu v-for="(child, index) in data.children" :key="index" />
   </div>
 </template>
 
@@ -12,9 +12,7 @@ import { defineComponent, ref } from "vue";
 export default defineComponent({
   setup() {
     const menuData = ref([]);
-    const url = ref(
-      "https://687794d9-377d-45ee-a46c-0d17a1738b14.mock.pstmn.io/know_endemic_species_in_taiwan/menu"
-    );
+    const url = ref("/api/getMenu");
     fetch(url.value).then((response) => {
       return response.json();
     }).then((data) => {
