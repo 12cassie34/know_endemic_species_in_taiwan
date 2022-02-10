@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-darkBlue h-full">
+  <div class="bg-desertSun h-screen overflow-y-scroll">
     <language-buttons />
     <the-menu :name="'臺灣特有種生物'" :enName="'Taiwan Endemic Species'" :children="menuData" :depth="0" />
   </div>

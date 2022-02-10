@@ -2,7 +2,8 @@
     "status": "success",
     "data": [
         {
-            "name": "鳥類  Birds",
+            "name": "鳥類 ",
+            "enName": "Birds",
             "children": [
                 {
                     "name": "鴉科",
@@ -67,46 +68,46 @@
             ]
         },
         {
-            "name": "哺乳類  Mammals",
+            "name": "哺乳類",
+            "enName": "Mammals",
             "children": [
-                [
-                    {
-                        "name": "牛科",
-                        "enName": "Bovidae"
-                    },
-                    {
-                        "name": "獼猴科",
-                        "enName": "Cercopithecidae"
-                    },
-                    {
-                        "name": "倉鼠科",
-                        "enName": "Cricetidae"
-                    },
-                    {
-                        "name": "鼠科",
-                        "enName": "Muridae"
-                    },
-                    {
-                        "name": "蹄鼻蝠科",
-                        "enName": "Rhinolophidae"
-                    },
-                    {
-                        "name": "尖鼠科",
-                        "enName": "Soricidae"
-                    },
-                    {
-                        "name": "鼴鼠科",
-                        "enName": "Talpidae"
-                    },
-                    {
-                        "name": "蝙蝠科",
-                        "enName": "Vespertilionidae"
-                    }
-                ]
+                {
+                    "name": "牛科",
+                    "enName": "Bovidae"
+                },
+                {
+                    "name": "獼猴科",
+                    "enName": "Cercopithecidae"
+                },
+                {
+                    "name": "倉鼠科",
+                    "enName": "Cricetidae"
+                },
+                {
+                    "name": "鼠科",
+                    "enName": "Muridae"
+                },
+                {
+                    "name": "蹄鼻蝠科",
+                    "enName": "Rhinolophidae"
+                },
+                {
+                    "name": "尖鼠科",
+                    "enName": "Soricidae"
+                },
+                {
+                    "name": "鼴鼠科",
+                    "enName": "Talpidae"
+                },
+                {
+                    "name": "蝙蝠科",
+                    "enName": "Vespertilionidae"
+                }
             ]
         },
         {
-            "name": "蜘蛛類  Spiders",
+            "name": "蜘蛛類",
+            "enName": "Spiders",
             "children": [
                 {
                     "name": "草蛛科",
@@ -211,7 +212,8 @@
             ]
         },
         {
-            "name": "爬蟲類  Reptiles",
+            "name": "爬蟲類",
+            "enName": "Reptiles",
             "children": [
                 {
                     "name": "飛蜥科",
@@ -282,7 +284,8 @@
             ]
         },
         {
-            "name": "魚類  Fishes",
+            "name": "魚類",
+            "enName": "Fishes",
             "children": [
                 {
                     "name": "鈍頭鮠科",
@@ -415,7 +418,8 @@
             ]
         },
         {
-            "name": "蝦蟹類  Crustaceans",
+            "name": "蝦蟹類",
+            "enName": "Crustaceans",
             "children": [
                 {
                     "name": "紡錐水虱科",
@@ -480,7 +484,8 @@
             ]
         },
         {
-            "name": "蛾類  Moths",
+            "name": "蛾類",
+            "enName": "Moths",
             "children": [
                 {
                     "name": "四眼蛾科",
@@ -649,7 +654,8 @@
             ]
         },
         {
-            "name": "蝶類  Butterflies",
+            "name": "蝶類",
+            "enName": "Butterflies",
             "children": [
                 {
                     "name": "弄蝶科",
@@ -670,7 +676,8 @@
             ]
         },
         {
-            "name": "蜻蛉類  Dragonflies",
+            "name": "蜻蛉類",
+            "enName": "Dragonflies",
             "children": [
                 {
                     "name": "晏蜓科",
@@ -707,7 +714,8 @@
             ]
         },
         {
-            "name": "甲蟲類  Beetles",
+            "name": "甲蟲類",
+            "enName": "Beetles",
             "children": [
                 {
                     "name": "長角象鼻蟲科",
@@ -948,7 +956,8 @@
             ]
         },
         {
-            "name": "其他昆蟲  Other insects",
+            "name": "其他昆蟲",
+            "enName": "Other insects",
             "children": [
                 {
                     "name": "潛蠅科",
@@ -1177,7 +1186,8 @@
             ]
         },
         {
-            "name": "蝸牛與貝類  Snails & Shells",
+            "name": "蝸牛與貝類",
+            "enName": "Snails & Shells",
             "children": [
                 {
                     "name": "扁蝸牛科",
@@ -1246,7 +1256,8 @@
             ]
         },
         {
-            "name": "其他無脊椎  Other invertebrates",
+            "name": "其他無脊椎",
+            "enName": "Other invertebrates",
             "children": [
                 {
                     "name": "臂尾輪科",
@@ -1275,7 +1286,8 @@
             ]
         },
         {
-            "name": "石松類  Lycophytes",
+            "name": "石松類",
+            "enName": "Lycophytes",
             "children": [
                 {
                     "name": "水韭科",
@@ -1288,7 +1300,8 @@
             ]
         },
         {
-            "name": "被子植物  Angiosperms",
+            "name": "被子植物",
+            "enName": "Angiosperms",
             "children": [
                 {
                     "name": "爵床科",
@@ -1741,7 +1754,8 @@
             ]
         },
         {
-            "name": "裸子植物  Gymnosperms",
+            "name": "裸子植物",
+            "enName": "Gymnosperms",
             "children": [
                 {
                     "name": "柏科",
@@ -1766,7 +1780,8 @@
             ]
         },
         {
-            "name": "蕨類  Ferns",
+            "name": "蕨類",
+            "enName": "Ferns",
             "children": [
                 {
                     "name": "鐵角蕨科",
@@ -1811,7 +1826,8 @@
             ]
         },
         {
-            "name": "真菌類  Fungi",
+            "name": "真菌類",
+            "enName": "Fungi",
             "children": [
                 {
                     "name": "鐵角蕨科",
