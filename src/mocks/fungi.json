@@ -1,0 +1,693 @@
+{
+    "鐵角蕨科": [
+        {
+            "物種UUID": "5a9a64be-017d-4916-9cb4-5b9a2a743135",
+            "科": "Aspleniaceae",
+            "科中文名": "鐵角蕨科",
+            "分類群俗名": "大蓬萊鐵角蕨",
+            "簡學名": "Asplenium cuneatiforme",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        }
+    ],
+    "蹄蓋蕨科": [
+        {
+            "物種UUID": "45ab5891-63dc-4dae-bf36-b309a91f4e15",
+            "科": "Athyriaceae",
+            "科中文名": "蹄蓋蕨科",
+            "分類群俗名": "耳垂蹄蓋蕨",
+            "簡學名": "Athyrium auriculatum",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "易危（VU, Vulnerable）"
+        },
+        {
+            "物種UUID": "3ca87fec-d3d9-44be-b9ff-624a13d447e1",
+            "科": "Athyriaceae",
+            "科中文名": "蹄蓋蕨科",
+            "分類群俗名": "合歡山蹄蓋蕨",
+            "簡學名": "Athyrium cryptogrammoides",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "77330d3a-738d-4c86-b53f-cde33d4ad832",
+            "科": "Athyriaceae",
+            "科中文名": "蹄蓋蕨科",
+            "分類群俗名": "七星山蹄蓋蕨",
+            "簡學名": "Athyrium minimum",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "易危（VU, Vulnerable）"
+        },
+        {
+            "物種UUID": "e4f5d940-3efa-4de6-aa02-7b339bee1204",
+            "科": "Athyriaceae",
+            "科中文名": "蹄蓋蕨科",
+            "分類群俗名": "三回蹄蓋蕨",
+            "簡學名": "Athyrium tripinnatum",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        }
+    ],
+    "金狗毛蕨科": [
+        {
+            "物種UUID": "3f40d32c-c4b1-4b0a-9af7-9fdac1197447",
+            "科": "Cibotiaceae",
+            "科中文名": "金狗毛蕨科",
+            "分類群俗名": "臺灣金狗毛蕨",
+            "簡學名": "Cibotium taiwanense",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        }
+    ],
+    "碗蕨科": [
+        {
+            "物種UUID": "5b6f58be-a61c-40e9-82fb-876e5003e954",
+            "科": "Dennstaedtiaceae",
+            "科中文名": "碗蕨科",
+            "分類群俗名": "光葉鱗蓋蕨",
+            "簡學名": "Microlepia calvescens",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "a23ab5fa-f9f4-4095-ac53-595f3d33225d",
+            "科": "Dennstaedtiaceae",
+            "科中文名": "碗蕨科",
+            "分類群俗名": "羽葉鱗蓋蕨",
+            "簡學名": "Microlepia intramarginalis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "78395b33-7062-4185-a50e-8d1c0dbde9ec",
+            "科": "Dennstaedtiaceae",
+            "科中文名": "碗蕨科",
+            "分類群俗名": "斜方鱗蓋蕨",
+            "簡學名": "Microlepia rhomboidea",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "易危（VU, Vulnerable）"
+        },
+        {
+            "物種UUID": "4be6d255-b6e8-46a5-983c-a43a2298f09e",
+            "科": "Dennstaedtiaceae",
+            "科中文名": "碗蕨科",
+            "分類群俗名": "毛果鱗蓋蕨",
+            "簡學名": "Microlepia trichocarpa",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "接近受脅（NT, Near Threatened）"
+        }
+    ],
+    "鱗毛蕨科": [
+        {
+            "物種UUID": "ed6b3ba3-b47f-4ee3-9242-fb196ddfb0d3",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "南仁實蕨",
+            "簡學名": "Bolbitis nanjenensis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "不適用"
+        },
+        {
+            "物種UUID": "3339ab94-392c-4c8a-81e4-e6b75c9006a4",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "長柄貫眾蕨",
+            "簡學名": "Cyrtomium longipes",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": ""
+        },
+        {
+            "物種UUID": "0e66f121-e54d-44d4-aeca-f87f13712a20",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "臺灣貫眾蕨",
+            "簡學名": "Cyrtomium taiwanense",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "易危（VU, Vulnerable）"
+        },
+        {
+            "物種UUID": "04457eae-6772-460b-8ad4-d9efb36f1ff8",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "能高鱗毛蕨",
+            "簡學名": "Dryopteris costalisora",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "42c348d7-fff9-488d-8a4c-2840a3812161",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "遠軸鱗毛蕨",
+            "簡學名": "Dryopteris dickinsii",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "瀕危（EN, Endangered）"
+        },
+        {
+            "物種UUID": "1a47da86-1298-43f9-a366-9b203e53a341",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "深山鱗毛蕨",
+            "簡學名": "Dryopteris fructuosa",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "7b3b658f-3c2e-4d91-b7c2-2e06b49ea5a1",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "蓬萊紅苞鱗毛蕨",
+            "簡學名": "Dryopteris integriloba",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "資料缺乏（DD, Data Deficient）"
+        },
+        {
+            "物種UUID": "ad810870-0658-4146-af3c-4623c6bfcf6d",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "川上氏鱗毛蕨",
+            "簡學名": "Dryopteris kawakamii",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "dd86a636-4273-4200-a437-666ba3737864",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "細葉鱗毛蕨",
+            "簡學名": "Dryopteris subatrata",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "39871db9-d001-4993-bde6-687a9cc72b17",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "落葉鱗毛蕨",
+            "簡學名": "Dryopteris tenuipes",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "資料缺乏（DD, Data Deficient）"
+        },
+        {
+            "物種UUID": "67a15541-c42a-4ff1-998d-acf77942afd4",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "上先型鱗毛蕨",
+            "簡學名": "Dryopteris yoroii",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "瀕危（EN, Endangered）"
+        },
+        {
+            "物種UUID": "92112348-d14b-4ece-a5d0-98f141e1c858",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "霍氏鱗毛蕨",
+            "簡學名": "Dryopteris ×holttumii",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "不適用"
+        },
+        {
+            "物種UUID": "32eda556-2861-46fe-b17b-c3473e823731",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "微彎鱗毛蕨",
+            "簡學名": "Dryopteris ×subreflexipinna",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "不適用"
+        },
+        {
+            "物種UUID": "15b2ffdd-c91d-4719-bec2-38da6ada6877",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "垂葉舌蕨",
+            "簡學名": "Elaphoglossum marginatum",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "df5e0b06-fa96-4420-a071-6501a13c45fc",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "尖葉耳蕨",
+            "簡學名": "Polystichum parvipinnulum",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "594e0f6b-f123-40b1-b072-8a5641d8344c",
+            "科": "Dryopteridaceae",
+            "科中文名": "鱗毛蕨科",
+            "分類群俗名": "鋸葉耳蕨",
+            "簡學名": "Polystichum prionolepis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        }
+    ],
+    "膜蕨科": [
+        {
+            "物種UUID": "2f8a23f1-1607-4616-ad97-977361845618",
+            "科": "Hymenophyllaceae",
+            "科中文名": "膜蕨科",
+            "分類群俗名": "變葉假脈蕨",
+            "簡學名": "Crepidomanes makinoi",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        }
+    ],
+    "觀音座蓮科": [
+        {
+            "物種UUID": "c4a10c3b-1a8f-4faf-b55d-3a59c15929dc",
+            "科": "Marattiaceae",
+            "科中文名": "觀音座蓮科",
+            "分類群俗名": "伊藤氏原始觀音座蓮",
+            "簡學名": "Angiopteris itoi",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "不適用"
+        },
+        {
+            "物種UUID": "3a275833-74fb-4d6b-8c67-b636c3c4ec95",
+            "科": "Marattiaceae",
+            "科中文名": "觀音座蓮科",
+            "分類群俗名": "臺灣原始觀音座蓮",
+            "簡學名": "Angiopteris somae",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "瀕危（EN, Endangered）"
+        }
+    ],
+    "水龍骨科": [
+        {
+            "物種UUID": "b623fa1c-6df5-4471-8470-3e0f02ad767b",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "鱗瓦韋",
+            "簡學名": "Lepisorus kawakamii",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "847683d4-10f3-41c1-9dab-ddcff19c92dc",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "長柄瓦韋",
+            "簡學名": "Lepisorus megasorus",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "cb663ebc-d94f-4233-bb94-7083205ee27b",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "擬笈瓦韋",
+            "簡學名": "Lepisorus monilisorus",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "1a35296f-9e53-45c9-98ce-265a1e4556aa",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "擬烏蘇里瓦韋",
+            "簡學名": "Lepisorus pseudoussuriensis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "beaddd41-cdd7-4ea7-8517-a2ef50c3b144",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "二形劍蕨",
+            "簡學名": "Loxogramme biformis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "瀕危（EN, Endangered）"
+        },
+        {
+            "物種UUID": "56a8b353-c16d-4f5f-a29f-fa725a766e35",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "中國劍蕨",
+            "簡學名": "Loxogramme chinensis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "資料缺乏（DD, Data Deficient）"
+        },
+        {
+            "物種UUID": "27e38eb8-ced3-4dbf-9352-6c146fff4c5d",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "密葉劍蕨",
+            "簡學名": "Loxogramme confertifolia",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "資料缺乏（DD, Data Deficient）"
+        },
+        {
+            "物種UUID": "8b1f84c8-e4b6-4eed-b82c-86ac62335639",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "長柄劍蕨",
+            "簡學名": "Loxogramme remotefrondigera",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "66c0c0c6-c6f7-47a9-906b-6859d4a1a5b9",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "長孢禾葉蕨",
+            "簡學名": "Oreogrammitis nuda",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "瀕危（EN, Endangered）"
+        },
+        {
+            "物種UUID": "1fdb9f5e-0c7f-491e-8cc3-f8e54388dd40",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "大葉水龍骨",
+            "簡學名": "Polypodiodes raishaensis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "274e0158-f036-4c11-8fb6-8bb0d9c78015",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "疏毛水龍骨",
+            "簡學名": "Polypodiodes transpianensis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "39fb379c-16be-4211-9c57-2976a27e0cc0",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "松田氏石韋",
+            "簡學名": "Pyrrosia matsudae",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "資料缺乏（DD, Data Deficient）"
+        },
+        {
+            "物種UUID": "98b57713-034a-46b4-ad19-dda1ccddd65f",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "槭葉石韋",
+            "簡學名": "Pyrrosia polydactyla",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "7e7c82ac-e5c3-432d-8d6e-3c2509fb5013",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "大葉玉山茀蕨",
+            "簡學名": "Selliguea echinospora",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "e6026b6c-57b2-4a25-a5bf-d272be41ba41",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "岡本氏茀蕨",
+            "簡學名": "Selliguea okamotoi",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "資料缺乏（DD, Data Deficient）"
+        },
+        {
+            "物種UUID": "7c168b67-1b72-439a-a152-3fd8517a2fed",
+            "科": "Polypodiaceae",
+            "科中文名": "水龍骨科",
+            "分類群俗名": "臺灣茀蕨",
+            "簡學名": "Selliguea taiwanensis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "資料缺乏（DD, Data Deficient）"
+        }
+    ],
+    "鳳尾蕨科": [
+        {
+            "物種UUID": "15c1f247-d8cb-4370-b435-eed4db90c23e",
+            "科": "Pteridaceae",
+            "科中文名": "鳳尾蕨科",
+            "分類群俗名": "深山鐵線蕨",
+            "簡學名": "Adiantum formosanum",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "易危（VU, Vulnerable）"
+        },
+        {
+            "物種UUID": "8c0a8b2a-1963-4115-8179-3274e6c4c0c0",
+            "科": "Pteridaceae",
+            "科中文名": "鳳尾蕨科",
+            "分類群俗名": "梅山口鐵線蕨",
+            "簡學名": "Adiantum meishanianum",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "不適用"
+        },
+        {
+            "物種UUID": "8a41c8d9-dd07-4ea1-876d-f28599fe0170",
+            "科": "Pteridaceae",
+            "科中文名": "鳳尾蕨科",
+            "分類群俗名": "阿里山車前蕨",
+            "簡學名": "Antrophyum castaneum",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "易危（VU, Vulnerable）"
+        },
+        {
+            "物種UUID": "b465a3f2-0e96-411e-bfdd-510b5379e424",
+            "科": "Pteridaceae",
+            "科中文名": "鳳尾蕨科",
+            "分類群俗名": "細葉鳳尾蕨",
+            "簡學名": "Pteris angustipinna",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "極危（CR, Critically Endangered）"
+        },
+        {
+            "物種UUID": "7e94ffd7-71c9-4a46-87ce-23a8c74ff914",
+            "科": "Pteridaceae",
+            "科中文名": "鳳尾蕨科",
+            "分類群俗名": "紅柄鳳尾蕨",
+            "簡學名": "Pteris aspericaulis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "6328956f-bba9-42dd-b2b7-c5c5229279a6",
+            "科": "Pteridaceae",
+            "科中文名": "鳳尾蕨科",
+            "分類群俗名": "長柄鳳尾蕨",
+            "簡學名": "Pteris bella",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "接近受脅（NT, Near Threatened）"
+        },
+        {
+            "物種UUID": "5e6c87e9-189f-480a-88ab-9721ffd4c4ce",
+            "科": "Pteridaceae",
+            "科中文名": "鳳尾蕨科",
+            "分類群俗名": "臺灣鳳尾蕨",
+            "簡學名": "Pteris formosana",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "e0506be4-bf86-4d45-94d7-b35e1cf165d9",
+            "科": "Pteridaceae",
+            "科中文名": "鳳尾蕨科",
+            "分類群俗名": "長葉鳳尾蕨",
+            "簡學名": "Pteris longipinna",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "3b16892b-6d4e-469f-bc37-c4de2b3bc42a",
+            "科": "Pteridaceae",
+            "科中文名": "鳳尾蕨科",
+            "分類群俗名": "皺葉鳳尾蕨",
+            "簡學名": "Pteris rugosifolia",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": ""
+        },
+        {
+            "物種UUID": "6c8f6f86-2794-4edf-bfc3-6689fc827e05",
+            "科": "Pteridaceae",
+            "科中文名": "鳳尾蕨科",
+            "分類群俗名": "烏來鳳尾蕨",
+            "簡學名": "Pteris wulaiensis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "極危（CR, Critically Endangered）"
+        }
+    ],
+    "金星蕨科": [
+        {
+            "物種UUID": "b08caea2-3b31-489c-9be5-b3a73f11c80a",
+            "科": "Thelypteridaceae",
+            "科中文名": "金星蕨科",
+            "分類群俗名": "栗柄金星蕨",
+            "簡學名": "Coryphopteris japonica",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "bb580b03-4cc0-4de2-abda-e7259ade5383",
+            "科": "Thelypteridaceae",
+            "科中文名": "金星蕨科",
+            "分類群俗名": "突尖小毛蕨",
+            "簡學名": "Cyclosorus ensifer",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "資料缺乏（DD, Data Deficient）"
+        },
+        {
+            "物種UUID": "e223236d-5f0f-4e91-b9cf-78f51143ebcd",
+            "科": "Thelypteridaceae",
+            "科中文名": "金星蕨科",
+            "分類群俗名": "擬密毛毛蕨",
+            "簡學名": "Cyclosorus intermedius",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "不適用"
+        },
+        {
+            "物種UUID": "990b4c99-fa4a-4d53-9e1b-92a44cdfe06d",
+            "科": "Thelypteridaceae",
+            "科中文名": "金星蕨科",
+            "分類群俗名": "蘭嶼圓腺蕨",
+            "簡學名": "Cyclosorus kotoensis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "f4802d7d-8d85-4811-a4b2-238fdb02bcf2",
+            "科": "Thelypteridaceae",
+            "科中文名": "金星蕨科",
+            "分類群俗名": "微縮小毛蕨",
+            "簡學名": "Cyclosorus latipinnus",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "8bcdafac-dd5f-424f-b89d-4d203ee89b36",
+            "科": "Thelypteridaceae",
+            "科中文名": "金星蕨科",
+            "分類群俗名": "長柄新月蕨",
+            "簡學名": "Pronephrium longipetiolatum",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "易危（VU, Vulnerable）"
+        }
+    ]
+}

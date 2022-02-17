@@ -1,0 +1,166 @@
+{
+    "柏科": [
+        {
+            "物種UUID": "eb1ba6e1-2cfa-4a5c-af56-0b7d3700f06f",
+            "科": "Cupressaceae",
+            "科中文名": "柏科",
+            "分類群俗名": "臺灣肖楠",
+            "簡學名": "Calocedrus formosana",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "易危（VU, Vulnerable）"
+        },
+        {
+            "物種UUID": "24fa9bad-196a-4518-bfcd-990109c5a9d2",
+            "科": "Cupressaceae",
+            "科中文名": "柏科",
+            "分類群俗名": "紅檜",
+            "簡學名": "Chamaecyparis formosensis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "接近受脅（NT, Near Threatened）"
+        },
+        {
+            "物種UUID": "d50df288-7437-4abe-8233-092d2d460ce3",
+            "科": "Cupressaceae",
+            "科中文名": "柏科",
+            "分類群俗名": "巒大杉",
+            "簡學名": "Cunninghamia konishii",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "易危（VU, Vulnerable）"
+        },
+        {
+            "物種UUID": "12aa667b-c42d-4c0b-84f3-bbe02311b01d",
+            "科": "Cupressaceae",
+            "科中文名": "柏科",
+            "分類群俗名": "臺灣杉",
+            "簡學名": "Taiwania cryptomerioides",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "瀕危（EN, Endangered）"
+        }
+    ],
+    "蘇鐵科": [
+        {
+            "物種UUID": "6a187632-fdcb-4669-b813-e7d9f4aa3acf",
+            "科": "Cycadaceae",
+            "科中文名": "蘇鐵科",
+            "分類群俗名": "臺東蘇鐵",
+            "簡學名": "Cycas taitungensis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "極危（CR, Critically Endangered）"
+        }
+    ],
+    "松科": [
+        {
+            "物種UUID": "a5e4ed29-93c0-4a16-88d5-59eebfdd57bd",
+            "科": "Pinaceae",
+            "科中文名": "松科",
+            "分類群俗名": "臺灣冷杉",
+            "簡學名": "Abies kawakamii",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "9b96e605-5010-4267-bf49-2bca8bb4b3f5",
+            "科": "Pinaceae",
+            "科中文名": "松科",
+            "分類群俗名": "臺灣雲杉",
+            "簡學名": "Picea morrisonicola",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "424e18a6-6287-4fb3-b329-e541965d3795",
+            "科": "Pinaceae",
+            "科中文名": "松科",
+            "分類群俗名": "臺灣五葉松",
+            "簡學名": "Pinus morrisonicola",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "b5f2f44a-273b-4371-8d46-3d3991eda76b",
+            "科": "Pinaceae",
+            "科中文名": "松科",
+            "分類群俗名": "臺灣二葉松",
+            "簡學名": "Pinus taiwanensis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "c1ca8142-0b91-4b44-8590-657abcaea59b",
+            "科": "Pinaceae",
+            "科中文名": "松科",
+            "分類群俗名": "臺灣黃杉",
+            "簡學名": "Pseudotsuga wilsoniana",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        },
+        {
+            "物種UUID": "57ce5ec9-d676-4877-a89b-035aec7df205",
+            "科": "Pinaceae",
+            "科中文名": "松科",
+            "分類群俗名": "臺灣鐵杉",
+            "簡學名": "Tsuga formosana",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "暫無危機（LC, Least Concern）"
+        }
+    ],
+    "羅漢松科": [
+        {
+            "物種UUID": "4838bfa9-78f0-4f7c-bdda-d47147ebe61b",
+            "科": "Podocarpaceae",
+            "科中文名": "羅漢松科",
+            "分類群俗名": "叢花百日青",
+            "簡學名": "Podocarpus fasciculus",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "易危（VU, Vulnerable）"
+        },
+        {
+            "物種UUID": "a5afb795-78bb-4f94-995b-bd585ae8e93e",
+            "科": "Podocarpaceae",
+            "科中文名": "羅漢松科",
+            "分類群俗名": "桃實百日青",
+            "簡學名": "Podocarpus nakaii",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "瀕危（EN, Endangered）"
+        }
+    ],
+    "紅豆杉科": [
+        {
+            "物種UUID": "d5dca59b-8ffe-4a5a-b88a-5f6376f8d727",
+            "科": "Taxaceae",
+            "科中文名": "紅豆杉科",
+            "分類群俗名": "臺灣穗花杉",
+            "簡學名": "Amentotaxus formosana",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "文化資產保存法：珍貴稀有植物",
+            "國內紅皮書評估類別": "瀕危（EN, Endangered）"
+        }
+    ]
+}

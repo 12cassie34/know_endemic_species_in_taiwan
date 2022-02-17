@@ -1,0 +1,28 @@
+{
+    "水韭科": [
+        {
+            "物種UUID": "c670aa71-b61f-49a4-a01e-f4119f52e7d1",
+            "科": "Isoetaceae",
+            "科中文名": "水韭科",
+            "分類群俗名": "臺灣水韭",
+            "簡學名": "Isoetes taiwanensis",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "極危（CR, Critically Endangered）"
+        }
+    ],
+    "卷柏科": [
+        {
+            "物種UUID": "c4492b5e-5822-45b1-a95b-a8da575d8b84",
+            "科": "Selaginellaceae",
+            "科中文名": "卷柏科",
+            "分類群俗名": "棣氏卷柏",
+            "簡學名": "Selaginella devolii",
+            "特有性": "台灣特有",
+            "原生性": "原生 Native",
+            "保育類等級": "",
+            "國內紅皮書評估類別": "接近受脅（NT, Near Threatened）"
+        }
+    ]
+}
