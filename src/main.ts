@@ -1,8 +1,9 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import './css/index.css'
-import { makeServer } from "./mockServer/server"
 
-makeServer()
+// import { worker } from "./mocks/browser";
+const { worker } = require('./mocks/browser')
+worker.start()
 
 createApp(App).mount('#app')
